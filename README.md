@@ -1,5 +1,7 @@
 # react-tic-tac-toe
-Tic-tac-toe game using react.
+Tic-tac-toe game 
+
+https://tictactoe-eso.netlify.app/
 
 ![Screen Shot 2023-11-03 at 21 33 32 PM](https://github.com/ecagataydogan/react-tic-tac-toe/assets/101594855/c5fa3fb6-5f7d-4fb5-b7d8-b50f2997e5ef)
 
